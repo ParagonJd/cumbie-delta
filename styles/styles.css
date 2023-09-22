@@ -1,19 +1,21 @@
 h1 {
     text-align: center;
     color: lightcoral;
-    background-color: bisque;
+    background-color: seagreen;
 }
 
 label, input, button {
     display: block;
     margin-bottom: 10px;
-    margin-left: 350px;
+    margin-left: 800px;
+    
 }
 
 #result {
     text-align: center;
     font-weight: bold;
     margin-top: 20px;
+    
 }
 
 body {
